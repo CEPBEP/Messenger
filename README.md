@@ -1,4 +1,4 @@
 # Messenger
 ## iOS Real-time Messenger
-<img src="apple.png"/>
+<img width="30%" src="apple.png"/>
 
